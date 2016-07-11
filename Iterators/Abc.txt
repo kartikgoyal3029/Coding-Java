@@ -1,0 +1,16 @@
+class Abc{
+int sum(int a, int b)
+{
+return(a+b);
+}
+public static void main(String ar[])
+{
+int x=5,y=6;
+int z;
+z=sum(x,y);
+System.out.println("sum is" +z);
+}
+
+
+
+}
